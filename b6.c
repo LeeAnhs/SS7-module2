@@ -13,7 +13,7 @@ int main() {
     }
 
     
-    printf("");
+    
     for (i = 0; i < 5; i++) {
         printf("%d", arr[i]);
         if (i < 4) {
